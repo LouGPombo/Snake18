@@ -1,0 +1,36 @@
+﻿
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<Level name="global">
+  <snake_speed>
+    v += score/g</speed>
+    </level>
+
+
+    <Level name="easy">
+      <level_size>5r*5c</level_size>
+      <level_max_time>4t</level_max_time>
+      <level_initial_food>x</level_initial_food>
+      <level_incremental_food>y</level_incremental_food>
+      <snake_initial_speed>z</snake_initial_speed>
+    </Level>
+
+
+    <Level name="medium">
+      <level_size>2r*2c</level_size>
+      <level_max_time>2t</level_max_time>
+      <level_initial_food>x</level_initial_food>
+      <level_incremental_food>y</level_incremental_food>
+      <snake_initial_speed>z</snake_initial_speed>
+    </Level>
+
+
+    <Level name="hard">
+      <level_size>r*c</level_size>
+      <level_max_time>t</level_max_time>
+      <level_initial_food>x</level_initial_food>
+      <level_incremental_food>y</level_incremental_food>
+      <snake_initial_speed>z</snake_initial_speed>
+    </Level>
